@@ -1,4 +1,4 @@
 PyPDF
     Install it with 
         pip3 install PyPDF2==1.26
-
+    This library helps process PDF's
